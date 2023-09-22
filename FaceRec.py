@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import dlib
 from pathlib import Path
-import time
+
 
 
 # Connects to your computer's default camera
